@@ -14,6 +14,7 @@ SQL | Python (pandas, scipy, statsmodels, matplotlib, seaborn) | R (tidyr, ggplo
 
 ## ✉️ Контакты
 [Email] maiia.chebakova@gmail.com  
+[Telegram/VK] @qchisq
 
 ---
 
