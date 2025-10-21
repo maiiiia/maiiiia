@@ -4,7 +4,7 @@
 ---
 
 ## 🧰 Навыки
-SQL | Python (pandas, scipy, statsmodels, matplotlib, seaborn)) | R (tidyr, ggplot2) | Tableau | A/B тестирование | Математическая статистика
+SQL | Python (pandas, scipy, statsmodels, matplotlib, seaborn) | R (tidyr, ggplot2) | Tableau | A/B тестирование | Математическая статистика
 
 ---
 
