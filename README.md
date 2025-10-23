@@ -12,6 +12,7 @@ SQL | Python (pandas, scipy, statsmodels, matplotlib, seaborn) | R (tidyr, ggplo
 [Статистические модели на основе гамма-распределения в анализе медико-психологических данных](https://github.com/maiiiia/gamma-models-eating-disorders) | R |
 
 [Olist E-commerce: продуктовая аналитика и A/B тестирование](https://github.com/maiiiia/olist) | Python | SQL
+
 ---
 
 ## ✉️ Контакты
