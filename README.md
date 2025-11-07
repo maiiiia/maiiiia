@@ -13,11 +13,6 @@ SQL | Python (pandas, scipy, statsmodels, matplotlib, seaborn) | R (tidyr, ggplo
 
 [Olist E-commerce: продуктовая аналитика и A/B тестирование](https://github.com/maiiiia/olist) | Python | SQL
 
----
-
-## ✉️ Контакты
-[Email] maiia.chebakova@gmail.com  
-[Telegram/VK] @qchisq
 
 ---
 
